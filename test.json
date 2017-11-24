@@ -1,0 +1,28 @@
+{
+  "users": {
+    "alovelace": {
+      "name": "1alovelace Lovelace",
+      "groups": {
+         "techpioneers": true,
+         "womentechmakers": true
+      }
+    },
+    "ada": {
+      "name": "Ada Lovelace",
+      "groups": {
+         "techpioneers": true,
+         "womentechmakers": true
+      }
+    }
+  },
+  "groups": {
+    "techpioneers": {
+      "name": "Historical Tech Pioneers",
+      "members": {
+        "alovelace": true,
+        "ghopper": true,
+        "eclarke": true
+      }
+    }
+  }
+}
